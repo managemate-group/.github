@@ -1,1 +1,1 @@
-# .github
+# ManageMate Group
